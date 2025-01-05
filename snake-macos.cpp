@@ -4,7 +4,7 @@
 #include <deque>
 #include <fstream>
 #include <iostream>
-#include <nlohmann/json.hpp>
+#include "json.hpp"
 
 // Window dimensions
 const int WIDTH = 800;
